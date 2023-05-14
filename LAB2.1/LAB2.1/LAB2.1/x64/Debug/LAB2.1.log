@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\ECG\LAB2\LAB2.1\LAB2.1\LAB2.1\main.cpp(94,37): warning C4267: '=': conversion from 'size_t' to 'GLint', possible loss of data
+  LAB2.1.vcxproj -> C:\ECG\LAB2\LAB2.1\LAB2.1\x64\Debug\LAB2.1.exe
